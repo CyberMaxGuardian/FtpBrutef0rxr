@@ -54,7 +54,7 @@ def get_args():
     parser = argparse.ArgumentParser()
     parser.add_argument('target', help='Host to attack on e.g. 192.168.1.1')
     parser.add_argument('-p', '--port', dest='port', default=21, type=int, required=False, help="Port to attack on, Default:21")
-    parser.add_argument('-w', '--wordlist', dest='wordlist', required=True, type=str help="Path to the Wordlist")
+    parser.add_argument('-w', '--wordlist', dest='wordlist', required=True, type=str, help="Path to the Wordlist")
     parser.add_argument('-u', '--username', dest='username', required=True, help="Username with which to bruteforce")
     parser.add_argument('-c', '--concurrency', dest='concurrency', default=10, type=int, required=False, help="Concurrency limit, Default:10")
     arguments = parser.parse_args()
