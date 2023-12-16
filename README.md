@@ -55,5 +55,5 @@ Before using this script, ensure you have the following installed:
 
 ## Usage
    ```bash
-   python ftp_bruteforcer.py <target> -w <wordlist> -u <username> [-p <port>] [-c <concurrency>]
+   python FtpBrutef0rxr.py <target> -w <wordlist> -u <username> [-p <port>] [-c <concurrency>]
 
