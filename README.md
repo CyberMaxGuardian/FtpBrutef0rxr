@@ -35,15 +35,15 @@ Before using this script, ensure you have the following installed:
 3. Change Directory:
    
    ```bash
-   cd ftp-bruteforcer
+   cd FtpBrutef0rxr
    
-5. Install Requirments
+5. Install Requirements
    
     ```bash
    pip install -r requirements.txt
 
 ## Example
-![test](https://github.com/CyberMaxGuardian/FtpBrutef0rxr/assets/143591496/64126331-551e-4384-8384-22d61a02c5c6)
+![testcase](https://github.com/CyberMaxGuardian/FtpBrutef0rxr/assets/143591496/1cb918e5-7507-4ec3-8327-c13d06e9258f)
 
     
 ## Options
