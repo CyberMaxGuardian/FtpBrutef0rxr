@@ -30,11 +30,13 @@ Before using this script, ensure you have the following installed:
 1. Clone the repository:
    
    ```bash
-   git clone https://github.com/yourusername/ftp-bruteforcer.git
+   git clone https://github.com/CyberMaxGuardian/FtpBrutef0rxr.git
+   
 3. Change Directory:
    
    ```bash
    cd ftp-bruteforcer
+   
 5. Install Requirments
    
     ```bash
